@@ -51,7 +51,7 @@ function Frame1() {
           {/* Img Container */}
           <div className='w-[100%] z-[2] relative flex justify-center items-center rounded-2xl bg-[#28B30E]'>
            
-            <img src="../public/assest/Earth.png" className='w-[95%] mx-auto' alt="Earth" />
+            <img src="../Earth.png" className='w-[95%] mx-auto' alt="Earth" />
           </div>
           <div className='absolute z-[4] text-center xs:space-y-4 xxs:space-y-1'>
             <h3 className='font-extrabold text-[#2D2D2D] xlg:text-6xl sm:text-5xl xs:text-3xl xxs:text-xl text-[18px]'>GHG Accounting</h3>

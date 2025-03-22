@@ -31,7 +31,7 @@ function Frame2() {
                 <div className='w-[100%] flex flex-col items-start p-6 hover:shadow-2xl gap-6 rounded-[12px] bg-white'>
                     {/* icon */}
                     <div className='w-[60px] h-[60px] relative flex items-center justify-center rounded-[23px]  my-auto bg-[#D6FFD0]  '>
-                        <img src="../../public/assest/icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
+                        <img src="../icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
                     </div>
                     <div className='flex flex-col gap-4 '>
                     {/* heading */}
@@ -44,7 +44,7 @@ function Frame2() {
                 <div className='w-[100%] flex flex-col items-start p-6 hover:shadow-2xl  gap-6 rounded-[12px] bg-white'>
                     {/* icon */}
                     <div className='w-[60px] h-[60px] relative flex items-center justify-center rounded-[23px]  my-auto bg-[#D6FFD0]  '>
-                        <img src="../../public/assest/icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
+                        <img src="../icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
                     </div>
                     <div className='flex flex-col gap-4 '>
                     {/* heading */}
@@ -57,7 +57,7 @@ function Frame2() {
                 <div className='w-[100%] flex flex-col items-start p-6 hover:shadow-2xl  gap-6 rounded-[12px] bg-white'>
                     {/* icon */}
                     <div className='w-[60px] h-[60px] relative flex items-center justify-center rounded-[23px]  my-auto bg-[#D6FFD0]  '>
-                        <img src="../../public/assest/icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
+                        <img src="../icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
                     </div>
                     <div className='flex flex-col gap-4 '>
                     {/* heading */}
@@ -70,7 +70,7 @@ function Frame2() {
                 <div className='w-[100%] flex flex-col items-start p-6 hover:shadow-2xl  gap-6 rounded-[12px] bg-white'>
                     {/* icon */}
                     <div className='w-[60px] h-[60px] relative flex items-center justify-center rounded-[23px]  my-auto bg-[#D6FFD0]  '>
-                        <img src="../../public/assest/icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
+                        <img src="../icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
                     </div>
                     <div className='flex flex-col gap-4 '>
                     {/* heading */}
@@ -83,7 +83,7 @@ function Frame2() {
                 <div className='w-[100%] flex flex-col items-start  p-6 hover:shadow-2xl  gap-6 rounded-[12px] bg-white'>
                     {/* icon */}
                     <div className='w-[60px] h-[60px] relative flex items-center justify-center rounded-[23px]  y-auto bg-[#D6FFD0]  '>
-                        <img src="../../public/assest/icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
+                        <img src="../icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
                     </div>
                     <div className='flex flex-col gap-4 '>
                     {/* heading */}
@@ -96,7 +96,7 @@ function Frame2() {
                 <div className='w-[100%] flex flex-col items-start p-6 hover:shadow-2xl  gap-6 rounded-[12px] bg-white'>
                     {/* icon */}
                     <div className='w-[60px] h-[60px] relative flex items-center justify-center rounded-[23px]  my-auto bg-[#D6FFD0]  '>
-                        <img src="../../public/assest/icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
+                        <img src="../icon.png" className='absolute w-[32px] h-[32px] ' alt="" />
                     </div>
                     <div className='flex flex-col gap-4 '>
                     {/* heading */}
