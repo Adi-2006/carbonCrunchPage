@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+*{
+    box-sizing: border-box;
+    /* margin: 0;
+    padding: 0; */
+
+}
+html,body{
+    width: 100vw;
+    height: auto;
+    overflow-x: auto;
+}
+
+@theme{
+    --breakpoint-xlg:968px;
+    --breakpoint-xs:500px;
+    --breakpoint-xxs:400px;
+}
+
+@media (min-width: 1600px) {
+    .gapmanage{
+        gap: 300px;
+    }
+}
+@media (min-width: 2000px) {
+    .gapmanage{
+        gap: 400px;
+    }
+}
+@media (min-width: 2500px) {
+    .gapmanage{
+        gap: 600px;
+    }
+}
