@@ -68,7 +68,7 @@ function Frame3() {
                 <div className='xlg:w-[85%] sm:w-[90%] pt-8'>
                     {/* outer green div */}
                     <div className='w-[100%] overflow-y-hidden  relative sm:pt-10 sm:pl-10 rounded-l-[20px] rounded-r-[20px] sm:pr-10 pt-5 pl-5 pr-5 bg-gradient-to-b from-[#28B30E] to-white '>
-                        <img src="../Employee.png" className=' rounded-2xl w-full object-cover' alt="EmployeeImg" loading='lazy' />
+                        <img src="./Employee.png" className=' rounded-2xl w-full object-cover' alt="EmployeeImg" loading='lazy' />
                         <div class="absolute inset-x-0 bottom-0 h-50 bg-gradient-to-t from-white/80 to-transparent"></div>
 
                     </div>
